@@ -6,7 +6,9 @@
     let ul = document.querySelector(".list");
     let toDo = document.querySelector("#toDo");
     let done = document.querySelector("#done");
+    
 //?====================== INPUT ==================================
+
 btn.addEventListener("click", function(){
     console.log("erhan");
     if(input.value==""){

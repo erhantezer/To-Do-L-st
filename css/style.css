@@ -1,4 +1,3 @@
-
 body{
     background-image: url("../todo.jpg");
     background-position: center center;
@@ -10,8 +9,7 @@ body{
 .ciz{
     text-decoration: line-through;
 }
-.list{
-    
+.list{ 
    text-align: center;
 }
 li{ text-align: center;
@@ -21,30 +19,22 @@ li{ text-align: center;
     list-style-type: none;
     background-color: rgb(58, 165, 42);
     margin-bottom: 4px;
-    border-radius: 10px;
-    
-    
+    border-radius: 10px;    
 }
 p{
     color: rgb(0, 0, 0);
     padding: 4px;
     font-weight: bolder;
-  
     letter-spacing: 1px;
     overflow: auto;
     margin: auto;
-    
-  
 }
 .ciz{
     text-decoration: line-through;
     color: white;
 }
-
-
 .brd{
-    text-align: center;
-    
+    text-align: center;  
 }
 .fa-solid{
     border-radius: 10px;
@@ -60,7 +50,6 @@ input{
     outline-style:outset;
     padding: 5px;
     border-radius: 10px;
-    
 }
 .btn{
     
